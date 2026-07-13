@@ -105,5 +105,5 @@ Context Tracer is the premier standalone utility release from **NLT — No Lapto
 We operate on a simple philosophy: **Real tools built for real use on modest, everyday machines.**
 
 * **Related Research:** School of Specialists (SoS)—a network-first, model-agnostic local AI assistant architecture. [Read the Architecture Paper (DOI: 10.5281/zenodo.21190620)](https://doi.org/10.5281/zenodo.21190620)
-* **Deep Dives:** [nolaptoptrades.substack.com](https://www.google.com/search?q=https://nolaptoptrades.substack.com)
+* **Connect:** Follow real-time development logs and updates on [Telegram](https://t.me/Ynolaptoptrades) or visit the [NLT Website](https://nolaptoptrades.com).
 * **Support:** If this architecture saves your CPU cycles, a Ko-fi keeps the i3 running. `[Ko-fi Link]`
