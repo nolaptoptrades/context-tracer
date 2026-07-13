@@ -1,4 +1,3 @@
-```markdown
 # Context Tracer: Lightweight JSONL Log Parser for Local Ollama Pipelines
 
 A minimalist, local, human-readable tracer for LLM pipelines built on Ollama. 
